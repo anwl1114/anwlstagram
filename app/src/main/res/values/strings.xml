@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">countryyouquiz</string>
+
+    <string name="title">You Quiz?</string>
+    <string name="wel">Welcome</string>
+    <string name="enter">Please enter your name</string>
+    <string name="start">start</string>
+    <string name="result">Result</string>
+
+    <string name="question">What country does this flag belong to?</string>
+    <string name="count">0/10</string>
+    <string name="success">You have successfully completed the Quiz</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="btn_next">GO TO NEXT QUESTION</string>
+    <string name="end">FINISH</string>
+
+    <string name="name">Username</string>
+    <string name="congratulations">Hey, Congratulations!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
